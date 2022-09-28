@@ -1,6 +1,6 @@
-# Stenographer
+# Steganographer
 
-#### Java text stenography library
+#### Java text steganography library
 
 A java library which creates a string with a secret message hidden within, kept secret with the use of 0 length unicode characters converted with binary strings.
 
